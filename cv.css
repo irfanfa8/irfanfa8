@@ -1,0 +1,61 @@
+html, body{
+	height: 100%;
+	width: 100%;
+	font-family: 'Arial', sans-serif;
+	color: #222;
+}
+.box1{
+	background-color: #3f3f3f;
+	color: #d5d5d5;
+	padding-top: 2rem;
+	height: 100%;
+	position: relative;
+}
+.image{
+	padding-bottom: 2em;;
+}
+.contact{
+	margin-bottom: 1rem;
+}
+.social{
+	color: #d5d5d5;
+	margin-bottom: 2rem;
+}
+.fa-facebook{
+	color: #3b5998;
+}
+.fa-twitter{
+	color: #00aced;
+}
+
+.fa-instagram{
+	color: #dd2a7b;
+}
+.fa-phone{
+	color: #128c7e;
+}
+.fa-envelope{
+	color: #f1d592;
+}
+.box2{
+	background-color: #d5d5d5;
+	padding-top: 2rem;
+}
+.name{
+	font-family: Verdana;
+	text-align: center;
+}
+.positive{
+	color: #FFFF00;
+}
+.negative{
+	color: #FFFFFF;
+}
+.skill{
+	margin-bottom: 3rem;
+}
+footer{
+	background-color: #3f3f3f;
+	color: #d5d5d5;
+	padding-top: 1rem;
+}
